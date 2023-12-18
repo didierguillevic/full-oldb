@@ -2269,7 +2269,7 @@ node_id,name,status,internal_id,address,countries,country_codes,sourceID,valid_u
 11002246,"CORES URIA, GONZALO (MR.)",,17206,,,,Panama Papers,The Panama Papers  data is current through 2015,
 11002247,"PONSOLDT, WILLIAM RAYMOND (MR.)",,17217,,,,Panama Papers,The Panama Papers  data is current through 2015,
 11002248,ABDUL BAQI ARSHAD (2),ACTIVE,17298,MR. ABDUL BAQI ARSHAD 11 RECTORY ORCHARD CHURCH ROAD LONDON SW19 5AS ENGLAND *S.I.*,United Kingdom,GBR,Panama Papers,The Panama Papers  data is current through 2015,
-11002249,"CRIALES, URCULLO & ANTEZANA",ACTIVE,17317,CRIALES; URCULLO & ANTEZANA ZONA CALACOTO; AVENIDA SÁNCHEZ BUSTAMANTE ESQUINA CALLE 9 NO. 7979; EDIFICIO VITRUVIO II; 5TO. PISO; OFICINA “D” LA PAZ BOLIVIA,Côte d'Ivoire;Bolivia,CIV;BOL,Panama Papers,The Panama Papers  data is current through 2015,
+11002249,"CRIALES, URCULLO & ANTEZANA",ACTIVE,17317,CRIALES; URCULLO & ANTEZANA ZONA CALACOTO; AVENIDA SÁNCHEZ BUSTAMANTE ESQUINA CALLE 9 NO. 7979; EDIFICIO VITRUVIO II; 5TO. PISO; OFICINA ""D"" LA PAZ BOLIVIA,Côte d'Ivoire;Bolivia,CIV;BOL,Panama Papers,The Panama Papers  data is current through 2015,
 11002250,ANGLO MANX TRUST CORPORATION  LIMITED,ACTIVE,1733,"ANGLO MANX TRUST CORPORATION LIMITED 5 ATHOL STREET DOUGLAS, IM1 1QL ISLE OF MAN BRITISH ISLES",Isle of Man,IMN,Panama Papers,The Panama Papers  data is current through 2015,
 11002251,MULTICONSULT LIMITED,SUSPENDED,13876,"MULTICONSULT LIMITED P.O. BOX 799 10, PRÉRE FELIX DE VALOIS STREET PORT LOUIS MAURITIUS",Mauritius,MUS,Panama Papers,The Panama Papers  data is current through 2015,
 11002252,ST PETERS TRUST COMPANY LIMITED,ACTIVE,139,MERLIN QUAYPORT TRUSTEES LIMITED P.O. BOX 132; QUAY HOUSESOUTH ESPLANADE; ST. PETER PORTGUERNSEY; GY1 4EJ; CHANNEL ISLANDS ST. PETER PORT UNITED KINGDOM,Guernsey;United Kingdom,GGY;GBR,Panama Papers,The Panama Papers  data is current through 2015,
@@ -7208,7 +7208,7 @@ node_id,name,status,internal_id,address,countries,country_codes,sourceID,valid_u
 11007207,CLEARWATER INVESTMENTS,ACTIVE,30774,CLEARWATER INVESTMENTS 9 AUCKLAND TERRACE RAMSEY ISLE OF MAN IM99 4QA,Isle of Man,IMN,Panama Papers,The Panama Papers  data is current through 2015,
 11007208,ALPHA FISHING + PROCESSING CO. INC.,SUSPENDED,308,"ALPHA FISHING + PROCESSING CO. INC. APARTADO 0834-00289 PANAMA, REPUBLICA DE PANAMA",Panama,PAN,Panama Papers,The Panama Papers  data is current through 2015,
 11007209,MAESTRA NAVEGAÇÃO E LOGISTICA S/A,,30810,,,,Panama Papers,The Panama Papers  data is current through 2015,
-11007210,MORGAN STANLEY SMITH BARNEY,ACTIVE,30839,VICTOR P. GÁLVEZ BANK OF AMERICA MERRILL LYNCH 701 “B” STREET; STE. 2400; SAN DIEGO; CALIFORNIA 92101 SAN DIEGO USA,United States,USA,Panama Papers,The Panama Papers  data is current through 2015,
+11007210,MORGAN STANLEY SMITH BARNEY,ACTIVE,30839,VICTOR P. GÁLVEZ BANK OF AMERICA MERRILL LYNCH 701 ""B"" STREET; STE. 2400; SAN DIEGO; CALIFORNIA 92101 SAN DIEGO USA,United States,USA,Panama Papers,The Panama Papers  data is current through 2015,
 11007211,ABDULRAHMAN ABDULLAH ALAWDI,,30842,,,,Panama Papers,The Panama Papers  data is current through 2015,
 11007212,NAHUM S.N. CONSULTING,ACTIVE,30848,,Switzerland,CHE,Panama Papers,The Panama Papers  data is current through 2015,
 11007213,NESTOR A. SALAZAR D.,,30862,,,,Panama Papers,The Panama Papers  data is current through 2015,
@@ -7902,7 +7902,7 @@ node_id,name,status,internal_id,address,countries,country_codes,sourceID,valid_u
 11007898,CAVENDISH MANAGEMENT LT,ACTIVE,32607,,United Kingdom,GBR,Panama Papers,The Panama Papers  data is current through 2015,
 11007899,AFORTIS LTD,ACTIVE,32616,,United Kingdom,GBR,Panama Papers,The Panama Papers  data is current through 2015,
 11007902,SOTO ABOGADOS,ACTIVE,33777,"SOTO ABOGADOS CALLE C (EL CAYAO) 11, SERRAYES SANTO DOMINGO REPUBLICA DOMINICANA",Dominican Republic,DOM,Panama Papers,The Panama Papers  data is current through 2015,
-11007903,CAMPO PUMA ORIENTE S.A.,ACTIVE,33783,CAMPO PUMA ORIENTE S.A. CHIMBORAZO 705 Y PAMPITE; CENTRO DE NEGOCIOS “LA ESQUINA”; TORRE II OF. 14; SECTOR CUMBAYÁ QUITO; ECUADOR,Ecuador,ECU,Panama Papers,The Panama Papers  data is current through 2015,
+11007903,CAMPO PUMA ORIENTE S.A.,ACTIVE,33783,CAMPO PUMA ORIENTE S.A. CHIMBORAZO 705 Y PAMPITE; CENTRO DE NEGOCIOS ""LA ESQUINA""; TORRE II OF. 14; SECTOR CUMBAYÁ QUITO; ECUADOR,Ecuador,ECU,Panama Papers,The Panama Papers  data is current through 2015,
 11007904,SADANCE ENTERPRISES LIMITED,ACTIVE,33791,SADANCE ENTERPRISES LIMITED ROOM 701; 7/F; TOWER 1; ENTERPRISE SQUARE; 9 SHEUNG YUET ROAD KOWLOON HONG KONG,Hong Kong,HKG,Panama Papers,The Panama Papers  data is current through 2015,
 11007905,MATHILDE INI DE DJAEN,ACTIVE,33822,MATHILDE INI DE DJAEN SUCRE 1863; PISO 12 BUENOS AIRES; CAPITAL FEDERAL ARGENTINA,Argentina,ARG,Panama Papers,The Panama Papers  data is current through 2015,
 11007906,OPULENT OPAL HOLDINGS LIMITED,ACTIVE,33827,OPULENT OPAL HOLDINGS LIMITED FLAT A; 7/F; FUK TSUN FACTORY BLDG.; 66-68; FUK TSUN ST; TAI KOK TSUI; KOWLOON,Hong Kong,HKG,Panama Papers,The Panama Papers  data is current through 2015,
@@ -10375,7 +10375,7 @@ node_id,name,status,internal_id,address,countries,country_codes,sourceID,valid_u
 11010362,GILES MORRIS,ACTIVE,38714,GILES MORRIS WESTWOOD; DOUGLAS ROAD KIRK MICHAEL; ISLE OF MAN DOUGLAS IM6 1AT; DOUGLAS ISLE OF MAN,Isle of Man,IMN,Panama Papers,The Panama Papers  data is current through 2015,
 11010367,SUNSHINE ASSETS INVESTMENTS LIMITED,ACTIVE,38860,SUNSHINE ASSETS INVESTMENTS LIMITED 70 KENNEDY ROAD; FLAT 7/B; AMBER GARDEN; HONG KONG HONG KONG,Hong Kong,HKG,Panama Papers,The Panama Papers  data is current through 2015,
 11010368,ROYAL HONOUR CONSULTANTS LIMITED,ACTIVE,38867,ROYAL HONOUR CONSULTANTS LIMITED UNIT 702; 7TH FLOOR; TUNG HIP COMMERCIAL BUILDING; 244 DES VOEUX ROAD CENTRAL HONG KONG,Hong Kong,HKG,Panama Papers,The Panama Papers  data is current through 2015,
-11010374,FINSBURY TRUST & CORPORATE SERVICES LIMITED,ACTIVE,4082,"FINSBURY TRUST & CORPORATE SERVICES LIMITED 4TH FLOOR, LEANSE PLACE  50 TOWN RANGE P.O. BOX 472 GIBRALTAR **S.I.**",Gibraltar,GIB,Panama Papers,The Panama Papers  data is current through 2015,"In the Mossack Fonseca database received by ICIJ, Maurice Perera and Amanda Marsh appear as beneficial owners of Worthlen Finance Limited. Maurice Perera told ICIJ that he and Amanda Marsh are not beneficial owners of the company. He said they work for Finsbury Trust and Corporate Services Limited, a corporate service provider in Gibraltar that managed Worthlen. Perera provided a letter signed by a Mossack Fonseca representative that states “according to records updated by our client on June 9, 2016 neither Mr. Maurice Perera nor Mrs. Amanda Marsh are the ultimate beneficial owner of the company. Mr. Marcel Benhamou, French citizen with address: 41, T. Tabidze Str. Apt 8, 0162, Tbilisi, Georgia is the ultimate beneficial owner of the company.” (Note updated on August 25th and November 29th, 2016 and visualization updated on November 8th and 29th, 2016)."
+11010374,FINSBURY TRUST & CORPORATE SERVICES LIMITED,ACTIVE,4082,"FINSBURY TRUST & CORPORATE SERVICES LIMITED 4TH FLOOR, LEANSE PLACE  50 TOWN RANGE P.O. BOX 472 GIBRALTAR **S.I.**",Gibraltar,GIB,Panama Papers,The Panama Papers  data is current through 2015,"In the Mossack Fonseca database received by ICIJ, Maurice Perera and Amanda Marsh appear as beneficial owners of Worthlen Finance Limited. Maurice Perera told ICIJ that he and Amanda Marsh are not beneficial owners of the company. He said they work for Finsbury Trust and Corporate Services Limited, a corporate service provider in Gibraltar that managed Worthlen. Perera provided a letter signed by a Mossack Fonseca representative that states ""according to records updated by our client on June 9, 2016 neither Mr. Maurice Perera nor Mrs. Amanda Marsh are the ultimate beneficial owner of the company. Mr. Marcel Benhamou, French citizen with address: 41, T. Tabidze Str. Apt 8, 0162, Tbilisi, Georgia is the ultimate beneficial owner of the company."" (Note updated on August 25th and November 29th, 2016 and visualization updated on November 8th and 29th, 2016)."
 11010375,JESSE H.Y. KWOK & CO.,ACTIVE,4084,"JESSE H.Y. KWOK & CO. 6TH FLOOR, FORTUNE CENTRE NOS. 44-48 YUN PING ROAD CAUSEWAY BAY HONG KONG",Hong Kong,HKG,Panama Papers,The Panama Papers  data is current through 2015,
 11010376,URI MELAMED BAJAYO,,40855,,,,Panama Papers,The Panama Papers  data is current through 2015,
 11010377,"RANAN, DAVID",UNRECOVERABLE ACCOUNTS,4088,MR. DAVID RANAN C/O MR. B. HALPERIN 8 BRYAN COURT 68 SEYMOUR PLACE LONDON; ENGLAND W1 H5WS ENGLAND; UNITED KINGDOM,United Kingdom,GBR,Panama Papers,The Panama Papers  data is current through 2015,
@@ -13553,7 +13553,7 @@ node_id,name,status,internal_id,address,countries,country_codes,sourceID,valid_u
 11013545,CENTURY GINWA RETAIL HOLDINGS LIMITED,ACTIVE,36378,CENTURY GINWA RETAIL HOLDINGS LIMITED SUITES 1701-1703; 17/F.; DAH SING FINANCIAL CENTRE; 108 GLOUCESTER ROAD WANCHAI HONG KONG,Hong Kong,HKG,Panama Papers,The Panama Papers  data is current through 2015,
 11013546,THE FORUM FINANCE GROUP S.A.,ACTIVE,36387,,Switzerland,CHE,Panama Papers,The Panama Papers  data is current through 2015,
 11013547,A.P. FAHY & CO.,ACTIVE,36395,A.P. FAHY & CO. UNIT 8A; 8/F.; CHINAWEAL CENTRE; 414-424 JAFFE ROAD CAUSEWAY BAY HONG KONG,Hong Kong,HKG,Panama Papers,The Panama Papers  data is current through 2015,
-11013548,TAX HOUSE LTD.,ACTIVE,36406,EKATERINA TROPNIKOVA & SIMON POPESKU OFFICE 319B; ZHUKOVSKOGO STR. 63 BUSINESS CENTER “SENATOR”; 191036 SAINT PETERSBURG RUSSIA,Russia,RUS,Panama Papers,The Panama Papers  data is current through 2015,
+11013548,TAX HOUSE LTD.,ACTIVE,36406,EKATERINA TROPNIKOVA & SIMON POPESKU OFFICE 319B; ZHUKOVSKOGO STR. 63 BUSINESS CENTER ""SENATOR""; 191036 SAINT PETERSBURG RUSSIA,Russia,RUS,Panama Papers,The Panama Papers  data is current through 2015,
 11013549,OTT MATTHIAS CHRISTIAN,ACTIVE,36408,,Israel,ISR,Panama Papers,The Panama Papers  data is current through 2015,
 11013550,"GREENWALD, H.A.",UNRECOVERABLE ACCOUNTS,3644,"DR. H.A. GREENWALD 87 BROADWALK WILMSLOW CHESHIRE SK9 5PN ENGLAND, UNITED KINGDOM",United Kingdom,GBR,Panama Papers,The Panama Papers  data is current through 2015,
 11013551,"INTEGRA LEGAL, S.A.",SUSPENDED,36482,"L.A. INTEGRA ABOGADOS LTDA TORRE 1, OFICENTRO DEL CEDRAL SAN RAFAEL DE ESCAZU ESCAZU COSTA RICA",Costa Rica,CRI,Panama Papers,The Panama Papers  data is current through 2015,
@@ -17775,7 +17775,7 @@ node_id,name,status,internal_id,address,countries,country_codes,sourceID,valid_u
 290594,Edward C.T. Wong & Co.,,,,Hong Kong,HKG,Offshore Leaks,The Offshore Leaks data is current through 2010,
 290595,Eddyanto Hadisurjo,,,,Indonesia,IDN,Offshore Leaks,The Offshore Leaks data is current through 2010,
 290597,Eddy Purwanto,,,,Indonesia,IDN,Offshore Leaks,The Offshore Leaks data is current through 2010,
-290598,"Eden Marketing & Finance Ltd. 
+290598,"Eden Marketing & Finance Ltd.
 Farrish Betton",,,,United States,USA,Offshore Leaks,The Offshore Leaks data is current through 2010,
 290599,Edilberto De La Serna Tuazon,,,,Philippines,PHL,Offshore Leaks,The Offshore Leaks data is current through 2010,
 290600,Edgar Tarazano,,,,United States,USA,Offshore Leaks,The Offshore Leaks data is current through 2010,
@@ -17786,7 +17786,7 @@ Farrish Betton",,,,United States,USA,Offshore Leaks,The Offshore Leaks data is c
 290605,Edward J. Barber,,,,United States,USA,Offshore Leaks,The Offshore Leaks data is current through 2010,
 290606,Eddy Kao,,,,Hong Kong,HKG,Offshore Leaks,The Offshore Leaks data is current through 2010,
 290607,Edward Lau & Co.,,,,Hong Kong,HKG,Offshore Leaks,The Offshore Leaks data is current through 2010,
-290608,"Edward Lin ??? 
+290608,"Edward Lin ???
 Shanghai Leart Business Consulting Co. Ltd. ??????????????",,,,China,CHN,Offshore Leaks,The Offshore Leaks data is current through 2010,
 290609,Edwin Muchtar (Mr.),,,,Indonesia,IDN,Offshore Leaks,The Offshore Leaks data is current through 2010,
 290610,Edmond Kwok,,,,Hong Kong,HKG,Offshore Leaks,The Offshore Leaks data is current through 2010,
@@ -20675,7 +20675,7 @@ Shanghai Leart Business Consulting Co. Ltd. ??????????????",,,,China,CHN,Offshor
 294256,NWS Holdings Limited,,,,Hong Kong,HKG,Offshore Leaks,The Offshore Leaks data is current through 2010,
 294257,New World Telecommunications Limited,,,,Hong Kong,HKG,Offshore Leaks,The Offshore Leaks data is current through 2010,
 294258,New World Trustees (Jersey) Limited,,,,Jersey,JEY,Offshore Leaks,The Offshore Leaks data is current through 2010,
-294263,New York University School of Medicine,,,,United States,USA,Offshore Leaks,The Offshore Leaks data is current through 2010,"A representative from NYU told ICIJ that the NYU School of Medicine had no involvement with Scraggy Neck Investments or Huntington Investments Holdings and that Dr. Kelly, who is a former employee of the university, was the person connected to the companies. “We have spoken with Dr. Kelly, who confirmed that the relationship was between him, Huntington Investment Holdings, and Scraggy Neck Investments, and the NYU School of Medicine had no involvement. Our own records reflect that we neither have nor had relationships with these other entities,” the representative added. (Updated on August 25th, 2016)"
+294263,New York University School of Medicine,,,,United States,USA,Offshore Leaks,The Offshore Leaks data is current through 2010,"A representative from NYU told ICIJ that the NYU School of Medicine had no involvement with Scraggy Neck Investments or Huntington Investments Holdings and that Dr. Kelly, who is a former employee of the university, was the person connected to the companies. ""We have spoken with Dr. Kelly, who confirmed that the relationship was between him, Huntington Investment Holdings, and Scraggy Neck Investments, and the NYU School of Medicine had no involvement. Our own records reflect that we neither have nor had relationships with these other entities,"" the representative added. (Updated on August 25th, 2016)"
 294268,Offshore Business Consultant (HK) Ltd.,,,,Hong Kong,HKG,Offshore Leaks,The Offshore Leaks data is current through 2010,
 294269,"Obermayer Rebmann Maxwell & Hippel, LLP",,,,United States,USA,Offshore Leaks,The Offshore Leaks data is current through 2010,
 294270,"Original Blue Island Villas Co., Ltd.",,,,Thailand,THA,Offshore Leaks,The Offshore Leaks data is current through 2010,
@@ -23378,7 +23378,7 @@ W. A. Kelley",,,,Canada,CAN,Offshore Leaks,The Offshore Leaks data is current th
 297593,Zhang XueJun,,,,China,CHN,Offshore Leaks,The Offshore Leaks data is current through 2010,
 297594,Zheng Yunqi,,,,China,CHN,Offshore Leaks,The Offshore Leaks data is current through 2010,
 297596,Asia One Corporate Services Ltd.,,,,Hong Kong,HKG,Offshore Leaks,The Offshore Leaks data is current through 2010,
-297597,Association of Advocates “ADVISER”,,,,Russia,RUS,Offshore Leaks,The Offshore Leaks data is current through 2010,
+297597,Association of Advocates ""ADVISER"",,,,Russia,RUS,Offshore Leaks,The Offshore Leaks data is current through 2010,
 297598,A.A.M. & C. Limited,,,,Russia,RUS,Offshore Leaks,The Offshore Leaks data is current through 2010,
 297599,Abacus (Seychelles) Limited,,,,Seychelles,SYC,Offshore Leaks,The Offshore Leaks data is current through 2010,
 297601,ABI Trust Ltd.,,,,Antigua and Barbuda,ATG,Offshore Leaks,The Offshore Leaks data is current through 2010,
